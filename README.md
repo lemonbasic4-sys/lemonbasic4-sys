@@ -3,9 +3,6 @@
 <img src="./assets/banner.svg" alt="LEMONBASIC4 pixel terminal banner" width="100%" />
 
 ### Lemonbasic4 · Developer · Building things that work
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lemonbasic4&style=flat-square&color=2ea44f)
-
 </div>
 
 ---
