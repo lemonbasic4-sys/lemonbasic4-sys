@@ -75,9 +75,5 @@ const lemonbasic4 = {
 ---
 
 <div align="center">
-
 `$ echo "Keep building."`
-
 </div>
-"# lemonbasic4-sys" 
-"# lemonbasic4-sys" 
