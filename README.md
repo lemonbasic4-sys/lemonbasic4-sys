@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./assets/banner.svg" alt="LEMONBASIC4 pixel terminal banner" width="100%" />
 
 ### Lemonbasic4 · Developer · Building things that work
@@ -9,13 +8,13 @@
 
 ## `$ whoami`
 
-Aspiring full-stack developer focused on practical web applications, information systems, and automation. I enjoy turning real-world workflows into useful software.
+Aspiring full-stack developer focused on practical web applications, information systems. I enjoy turning real-world workflows into useful software.
 
 ```javascript
 const lemonbasic4 = {
-  username: "Lemonbasic4",
+  username: "Justine",
   focus: ["Full-stack development", "Information systems", "Automation"],
-  building: ["HRIS capstone", "Business applications"],
+  building: ["Raquel Pawnshop HR Workforce Analytics & Evaluation Platform", "Business applications"],
   philosophy: "Build. Learn. Improve."
 };
 ```
